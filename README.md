@@ -4,9 +4,11 @@ WireCRM
 https://wirecrm.com
 
 
-Пример получения списка организаций c помощью API сервиса
+Api
+======
 
 ```php
+//Пример получения списка организаций c помощью API
 
 $url = 'https://wirecrm.com/api/accounts';
 $apikey = 'paste api key';
