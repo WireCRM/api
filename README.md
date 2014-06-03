@@ -5,6 +5,7 @@ Online CRM for small business
 
 PHP Curl example
 
+```
 //Пример получения списка организаций
 
 $url = 'https://wirecrm.com/api/accounts';
@@ -28,3 +29,4 @@ $array = json_decode($data);
 
 echo '<pre>';
 print_r($array);
+```
