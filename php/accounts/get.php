@@ -1,7 +1,5 @@
 <?php
 
-	//ѕример получени€ списка организаций
-
 	$url = 'https://wirecrm.com/api/accounts';
 	$apikey = 'paste api key';
 
