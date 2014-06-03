@@ -1,13 +1,12 @@
 WireCRM
 ======
 Онлайн CRM система для малого бизнеса
+https://wirecrm.com
 
 
-Примеры работы с API сервиса
-=====
+Пример получения списка организаций c помощью API сервиса
 
 ```php
-//Пример получения списка организаций
 
 $url = 'https://wirecrm.com/api/accounts';
 $apikey = 'paste api key';
